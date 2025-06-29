@@ -1,0 +1,8 @@
+ID,Date,Category,Amount,Note
+1,2025-06-02,Utility,8000.0,Rent
+2,2025-06-02,Bills,400.0,Electricity bill
+3,2025-06-08,Groceries,700.0,"Detergent, Chips, Maggie & Biscuit"
+4,2025-06-09,Groceries,250.0,Fruits
+5,2025-06-12,Food,320.0,KFC
+6,2025-06-14,Entertainment,650.0,Movie Tickets
+7,2025-06-14,Transport,120.0,Bus & Metro Fare
