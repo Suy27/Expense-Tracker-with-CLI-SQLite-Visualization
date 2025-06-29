@@ -60,7 +60,7 @@ cd Expense-Tracker-with-CLI-SQLite-Visualization
 
 ### 3. Run the app
 ```bash
-python mymain.py
+python exp_tracker_main.py
 ```
 ---
 ## How to Use
