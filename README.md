@@ -99,7 +99,7 @@ python mymain.py
    - Real-world data modeling with SQLite
 
 ---
-## 📂 Future Improvements
+## 📌 Upcoming Improvements
 
    - Date-based filtering (monthly, weekly)
 
