@@ -2,7 +2,7 @@
 Python Mini Project ([**IDC**](https://www.indiandataclub.com/) 30days Python Challenge)
 
 # 💰 Expense Tracker CLI App (Python + SQLite + Matplotlib)
-A simple yet powerful command-line application to **track your daily expenses**, view category-wise summaries, and visualize your spending using bar charts.
+A simple yet powerful command-line application to **track your daily expenses**, where we can view category-wise summaries, and visualise our spendings using bar charts.
 
 Built as part of my 30 Days Of Python Challenge, this project applies real-world Python skills including:
 - File I/O
