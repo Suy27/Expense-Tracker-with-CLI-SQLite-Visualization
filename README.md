@@ -1,5 +1,5 @@
 # Expense-Tracker-with-CLI-SQLite-Visualization
-Python Mini Project (IDC 30days Python Challenge)
+Python Mini Project ([**IDC**](https://www.indiandataclub.com/) 30days Python Challenge)
 
 # 💰 Expense Tracker CLI App (Python + SQLite + Matplotlib)
 A simple yet powerful command-line application to **track your daily expenses**, view category-wise summaries, and visualize your spending using bar charts.
@@ -19,7 +19,7 @@ Built as part of my 30 Days Of Python Challenge, this project applies real-world
   - Get total spending by category  
   - Export all records to a CSV file  
   - Visualize category-wise spending with bar charts  
-  - Uses persistent **SQLite** storage  
+  - Uses persistent SQLite storage  
   - Clean modular functions — easy to read & maintain
 ---
 ## 🛠 Tech Stack
@@ -31,7 +31,7 @@ Built as part of my 30 Days Of Python Challenge, this project applies real-world
 ## 📁 Project Structure
 **exp_tracker/**
 ```bash
-├── mymain.py # Main CLI logic
+├── exp_tracker_main.py # Main CLI logic
 
 ├── database.py # Database connection + table setup
 
@@ -45,8 +45,8 @@ Built as part of my 30 Days Of Python Challenge, this project applies real-world
 ## ⚙️ Setup & Run
 ### 1. Clone this repository or download the files
 ```bash
-git clone https://github.com/yourusername/exp_tracker.git
-cd exp_tracker
+https://github.com/Suy27/Expense-Tracker-with-CLI-SQLite-Visualization.git
+cd Expense-Tracker-with-CLI-SQLite-Visualization
 ```
 ### 2. Install required packages
    - If using Anaconda:
@@ -79,7 +79,12 @@ python mymain.py
 
 **CLI Interface:**
 
+<img width="838" alt="CLI_interface" src="https://github.com/Suy27/Expense-Tracker-with-CLI-SQLite-Visualization/blob/main/Snaps/CLI_interface.jpg" />
+
 **Visualisation:**
+
+<img width="838" alt="CLI_interface" src="https://github.com/Suy27/Expense-Tracker-with-CLI-SQLite-Visualization/blob/main/Snaps/ViZ_Bar_Chart.jpg" />
+
 ---
 
 ## 📌 Learning Highlights
@@ -93,6 +98,7 @@ python mymain.py
 
    - Real-world data modeling with SQLite
 
+---
 ## 📂 Future Improvements
 
    - Date-based filtering (monthly, weekly)
@@ -103,5 +109,6 @@ python mymain.py
 
    - Add login/user-specific data
      
+---
 ##  Credits
-Challenge: *#30DaysOfPython* by **Indian Data Club**
+Challenge: ***#30DaysOfPython*** by [**Indian Data Club**](https://www.indiandataclub.com/)
