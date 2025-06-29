@@ -1,5 +1,5 @@
 # Expense-Tracker-with-CLI-SQLite-Visualization
-Python Mini Project ([**IDC**]([https://www.indiandataclub.com/](https://indiandataclub.notion.site/30DaysOfPython-1f9a16c0422f8074bf29eee315a6802a) 30days Python Challenge)
+Python Mini Project [**IDC**](https://indiandataclub.notion.site/30DaysOfPython-1f9a16c0422f8074bf29eee315a6802a) 30days Python Challenge)
 
 # 💰 Expense Tracker CLI App (Python + SQLite + Matplotlib)
 A simple yet powerful command-line application to **track your daily expenses**, where we can view category-wise summaries, and visualise our spendings using bar charts.
